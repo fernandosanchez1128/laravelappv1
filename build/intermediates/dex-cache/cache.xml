@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\El_Hueco\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\El_Hueco\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_158d7392160d2bfce1215a3672a773be30bd50d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\El_Hueco\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ab7809657cce0c9c216fd26616ee039118ec6b75">
+        <dex dex="C:\El_Hueco\app\build\intermediates\pre-dexed\debug\instant-run_8620a3a5b9d010efcf8086cd04e060750dc7ec1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\El_Hueco\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\El_Hueco\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_83614d4f353ea38d01e8cecd5f84e391c8ff0e4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\El_Hueco\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\El_Hueco\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_3804d2929a02be1fd8f42e8687939e1a778c726c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\El_Hueco\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\El_Hueco\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_13eecb21cd0069898e3fd24e6b458391d29162cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\El_Hueco\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\El_Hueco\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_cdf51a45981fd12be210f93d393ae5fa70a96f78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Desarrollar\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\El_Hueco\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_4189ef740624c1c005fdec78ba0de27731c7624b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\El_Hueco\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8100dee139ab65fff5f05a4533ec9c88e5cadeb7">
+        <dex dex="C:\El_Hueco\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_c2f2e7308021595db6954136263c44bfa4e7b888.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\El_Hueco\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\El_Hueco\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_ec813ce11e9268ab29222fcd2dd5bfc4e479c500.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\El_Hueco\app\build\intermediates\exploded-aar\hani.momanii.supernova_emoji_library\supernova-emoji-library\0.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b83e82da8c456a9766711909d277d6bdda6c0a24">
+        <dex dex="C:\El_Hueco\app\build\intermediates\pre-dexed\debug\hani.momanii.supernova_emoji_library-supernova-emoji-library-0.0.2_7c41f88af8cdb489550b0174eb3af10eb07cb0c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Desarrollar\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\El_Hueco\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_c8980ccd38eec4da02f224fdefd991c8bff49f3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\El_Hueco\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\El_Hueco\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_878c39a275127f7c25116584b5c4684d0dde570e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\El_Hueco\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="C:\El_Hueco\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.0.1_13ea7819633625142d28d9fff41a397d4e2ba24a.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,99 @@
+body{
+		position: relative;
+		color: #CCC;
+	}
+
+
+	div#general{
+	margin: auto;/*para que se sentre todo en el centro*/
+	/*segun las propiedades del margin primero va el auto y despues todo lo demas*/
+	margin-bottom: 60px; 
+	width: 40%;
+	height: 800px;
+	/*background-color: red;*/
+	}
+
+	.demo-card-wide.mdl-card {
+	  width: 500px;/*tamaño*/
+	}
+	.demo-card-wide > .mdl-card__title {
+	  color: #D89B18;
+	  height: 10px;
+	  background-color: rgba(0, 0, 0,.5);
+	}
+	.demo-card-wide > .mdl-card__menu {
+	  color: #303030  ;
+	}
+
+	/*fondo de la pagina*/
+	.fondo{
+	background-image: url('/images/fondo_principal_3.jpg');
+	}
+
+	/*centrar cajas de texto dentro del cardview*/
+	.center__textfield{
+	 position:relative;
+	 display:block;
+  	 margin-left: auto;
+ 	 margin-right: auto;
+	}
+
+
+	/*centrar boton dentro del cardview*/
+	.boton__ingresar{
+	position:relative;
+	display:block;
+  	 margin-left: auto;
+ 	 margin-right: auto;
+ 	 margin-bottom: auto;
+ 	 
+	}
+
+	/*centrar imagen de titulo*/
+	.center__image {
+	 display:block;
+	 text-align:center;
+	 padding-top: 30px; 
+	}
+
+	/*boton de registro de nuevo usuario*/
+	.boton__registrar{
+	 position:absolute;
+	 bottom:10px;
+	 right:10px;
+
+	}
+
+	/*link ¿olvido la contraseña?*/
+	.link__contraseña{
+	position: absolute;
+    left: 50%;
+    top: 70%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%); 
+	color:#D89B18;
+	}
+
+	/*link ¿olvido la contraseña?*/
+	.link__register{
+	position: absolute;
+    left: 50%;
+    top: 100%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%); 
+	color:#D89B18;
+	}
+
+
+	.transparent-style{
+	    background-color: rgba(0, 0, 0, .4);
+	}
+
+	/*centrar el cardview*/
+	.center__cardview{
+	 margin: auto;
+	}
+
+	input:not([type]), input[type=text], input[type=password], input[type=email], input[type=url], input[type=time], input[type=date], input[type=datetime], input[type=datetime-local], input[type=tel], input[type=number], input[type=search], textarea.materialize-textarea {
+    border-bottom: none;
+	}

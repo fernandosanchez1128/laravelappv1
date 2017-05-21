@@ -1,0 +1,24 @@
+.image_perfil{
+	min-height: 200px;
+	min-width: 200px;
+	max-width: 200px;
+	max-height: 200px;
+	border: solid;
+	border-color: black;
+	border-radius: 50px;
+	margin-top: 20px;
+	background-image: url("/images/user2.png");
+}
+/*roles*/
+.raw{
+	min-height: 800px;
+	margin-top: 20px;
+}
+
+tr{
+  background-color: #e0e0e0;
+}
+
+.transparent-style{
+   background-color: rgba(255, 255, 255, .4);
+}

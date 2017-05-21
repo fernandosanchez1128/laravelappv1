@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/cardview_Text"
+    card_view:cardCornerRadius="5dp"
+    card_view:contentPaddingBottom="15dp"
+    card_view:contentPaddingLeft="15dp"
+    card_view:contentPaddingRight="15dp"
+    card_view:cardBackgroundColor="@color/transparentosco">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="330dp"
+        android:background="@color/transparentosco"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:id="@+id/TextContent"
+            android:background="@color/white"
+            android:textSize="25dp"
+            android:textIsSelectable="true"
+            android:maxLines="10"
+            android:minLines="1"
+            />
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_alignParentBottom="true"
+            android:background="@color/transparentoscuro"
+            android:layout_marginBottom="21dp"
+            >
+
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:id="@+id/MeGusta"
+                android:layout_toLeftOf="@+id/Comentar"
+                android:layout_alignParentBottom="true"
+                android:layout_marginBottom="10dp"
+
+                android:background="@drawable/megusta"/>
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:id="@+id/Comentar"
+                android:layout_alignParentBottom="true"
+                android:layout_marginBottom="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_toLeftOf="@+id/Compartir"
+                android:background="@drawable/ic_chat_black_24dp"/>
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:id="@+id/Compartir"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/ic_menu_share"/>
+
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+
+
+
+</android.support.v7.widget.CardView>
